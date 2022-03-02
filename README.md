@@ -1,4 +1,4 @@
-# rust-hello
+# Rust-Hello
 Studies with the rust language
 
 ## Contributing
